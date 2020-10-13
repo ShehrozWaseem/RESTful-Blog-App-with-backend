@@ -10,4 +10,4 @@ Fifth is the edit route when ever you are n a show route you can edit the blog a
 Sixth is the update route now you have edited that form submit the request as a put request but as we know that html supports only two methods that are get and post so we use method-override package to overcome this problem we used POST method in the form as we have to submit a request to update that form but moreover we used method as PUT which act as a query string and override will read it 
 Seventh and the last is Destroy route whenever you click a particular blog you their will be a button for deleting that route and when ever you submit a delete request it will delete that object from the database.
 
-FOR USER: you can also write html stuff in the blog content text-area like if you want to blod the text yo can use <b>Place the text here which you want bolded</b>
+FOR USER: you can also write html stuff in the blog content text-area like if you want to blod the text yo can use use the bold syntax etc etc.
